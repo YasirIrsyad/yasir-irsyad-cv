@@ -108,7 +108,7 @@ a:hover{
 }
 
 .contact-message{
-  width: 40%;
+  width: 30%;
   margin: 40px auto 60px auto;
 }
 
@@ -132,6 +132,7 @@ a:hover{
    line-height: 50px;
    color: #FFFFFF;
    font-family: Arial;
+   font-weight: bolder;
    width: 200px;
    font-size: 20px;
    font-weight: 100;
